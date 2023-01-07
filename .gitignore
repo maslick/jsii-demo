@@ -1,0 +1,10 @@
+.pytest
+.venv
+cdk.out
+dist
+node_modules
+.jsii
+tsconfig.*
+.idea
+lib/*.js
+lib/*d.ts
