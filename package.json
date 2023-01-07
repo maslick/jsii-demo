@@ -8,8 +8,7 @@
   "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maslick/jsii-demo",
-
+    "url": "https://github.com/maslick/jsii-demo"
   },
   "license": "Apache-2.0",
   "devDependencies": {
